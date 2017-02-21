@@ -1,0 +1,2 @@
+# fancyfancy.github.io
+blog
